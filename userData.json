@@ -1,122 +1,129 @@
 {
-  "about": [
+  "aboutMe": [
     "I'm Highly skilled Software Developer with extensive experience in backend development using Java, SpringBoot, Hibernate, Docker etc. Proven ability to design, develop, and maintain complex systems while delivering high-quality solutions.",
     "Also Proficient in frontend technologies, including ReactJS and Tailwind CSS, with a strong understanding of modern web development practices. Adept at problem-solving, collaborating with cross-functional teams, and optimizing performance to meet project goals."
   ],
-  "experience": [
+  "professionalExperienceDtoList": [
+    {
+      "id": 202402,
+      "title": "Staff Engineer",
+      "organization": "Nagarro",
+      "organizationUrl": "https://www.nagarro.com/en",
+      "startDate": "2024-02-26",
+      "endDate": null,
+      "working": true,
+      "highlights": []
+    },
     {
       "id": 202206,
-      "company": {
-        "name": "Wipro",
-        "image": "/images/wipro.jpg",
-        "location": "Bengaluru, Karnataka",
-        "startDate": "2022-06-02",
-        "endDate": null
-      },
-      "positions": [
-        {
-          "title": "Sr. Project Engineer",
-          "startDate": "2022-06-02",
-          "endDate": null,
-          "about": []
-        }
-      ]
+      "enabled": true,
+      "title": "Sr. Project Engineer",
+      "organization": "Wipro",
+      "organizationUrl": "https://www.wipro.com/",
+      "startDate": "2022-06-02",
+      "endDate": "2024-02-09",
+      "highlights": []
     },
     {
       "id": 202105,
-      "company": {
-        "name": "Sellcraft Global Solutions Pvt Ltd",
-        "image": "/images/sellcraft.png",
-        "location": "Bengaluru, Karnataka",
-        "startDate": "2021-05-20",
-        "endDate": "2022-06-01"
-      },
-      "positions": [
-        {
-          "title": "Sr. software developer",
-          "startDate": "2021-05-20",
-          "endDate": "2022-06-01",
-          "about": ["On contract with Wipro(Bengaluru)"]
-        }
+      "enabled": true,
+      "title": "Sr. software developer",
+      "organization": "Sellcraft Global Solutions Pvt Ltd",
+      "organizationUrl": "https://www.sellcraft.net/",
+      "startDate": "2021-05-20",
+      "endDate": "2022-06-01",
+      "highlights": ["On contract with Wipro (Bengaluru)"]
+    },
+    {
+      "id": 201911,
+      "enabled": true,
+      "title": "Assistant Team Leader",
+      "organization": "Eduncle",
+      "organizationUrl": "https://www.eduncle.com/",
+      "startDate": "2019-11-20",
+      "endDate": "2021-05-19",
+      "highlights": [
+        "Worked hard to reduce issues and increase productivity.",
+        "Supervised 4 software developers.",
+        "Conducted new-hire training regularly throughout fiscal year."
       ]
     },
     {
-      "id": 202011,
-      "company": {
-        "name": "Eduncle",
-        "image": "/images/eduncle.jpg",
-        "location": "Kota, Rajasthan",
-        "startDate": "2018-09-12",
-        "endDate": "2021-05-19"
-      },
-      "positions": [
-        {
-          "title": "Assistant Team Leader",
-          "startDate": "2019-11-20",
-          "endDate": "2021-05-19",
-          "about": [
-            "Worked hard to reduce issues and increase productivity.",
-            "Supervised 4 software developers.",
-            "Conducted new-hire training regularly throughout fiscal year."
-          ]
-        },
-        {
-          "title": "Sr. Software Developer",
-          "startDate": "2018-09-12",
-          "endDate": "2019-11-19",
-          "about": [
-            "Managing complete backend written <b>SpringBoot</b>, Hibernat Mysql along with elastic search.",
-            "Created custom auto scaling from AWS's EC2 for background process.",
-            "Good knowledge of web design by using html, css, bootstraps, jquery, reactJS.",
-            "Designed almost 70% of database and managing it."
-          ]
-        }
+      "id": 201809,
+      "enabled": true,
+      "title": "Sr. Software Developer",
+      "organization": "Eduncle",
+      "organizationUrl": "https://www.eduncle.com/",
+      "startDate": "2018-09-12",
+      "endDate": "2019-11-19",
+      "highlights": [
+        "Managing complete backend written SpringBoot, Hibernat Mysql along with elastic search.",
+        "Created custom auto scaling from AWS's EC2 for background process.",
+        "Good knowledge of web design by using html, css, bootstraps, jquery, reactJS.",
+        "Designed almost 70% of database and managing it."
       ]
     },
     {
       "id": 201802,
-      "company": {
-        "name": "Anand Rathi IT (ARIT)",
-        "image": "/images/arit.jpg",
-        "location": "Jodhpur, Rajasthan",
-        "startDate": "2018-02-05",
-        "endDate": "2018-08-31"
-      },
-      "positions": [
-        {
-          "title": "Software Developer",
-          "startDate": "2018-02-05",
-          "endDate": "2018-08-31",
-          "about": [
-            "Headed the development of a central Account Opening web portal to handle multiple business per day.",
-            "Single handed delivered 10+ new optimization for the system.",
-            "Integrated Payment Gateway (IDFC bank), to handle payments on a daily basis.",
-            "Integrated E signing documents from NSDL for Demate account"
-          ]
-        }
+      "enabled": true,
+      "title": "Software Developer",
+      "organization": "Anand Rathi IT (ARIT)",
+      "organizationUrl": "https://www.techanandrathi.com/",
+      "startDate": "2018-02-05",
+      "endDate": "2018-08-31",
+      "highlights": [
+        "Headed the development of a central Account Opening web portal to handle multiple business per day.",
+        "Single handed delivered 10+ new optimization for the system.",
+        "Integrated Payment Gateway (IDFC bank), to handle payments on a daily basis.",
+        "Integrated E signing documents from NSDL for Demate account"
       ]
     },
     {
       "id": 201411,
-      "company": {
-        "name": "Amazon development center",
-        "image": "/images/amazon.jpg",
-        "location": "Bangaluru, Karnataka",
-        "startDate": "2014-11-10",
-        "endDate": "2017-01-31"
-      },
-      "positions": [
-        {
-          "title": "Catalog Associate",
-          "startDate": "2014-11-10",
-          "endDate": "2017-01-31",
-          "about": [
-            "Designed innovative and interactive exhibits to showcase newly procured and digitized items.",
-            "Designed some rich product pages for USA based vendors for amazon.com",
-            "I also developed a tool called SAT (Smart Allocation Tool) for task allocation for my team. It was in pilot stage."
-          ]
-        }
+      "enabled": true,
+      "title": "Catalog Associate",
+      "organization": "Amazon development center",
+      "organizationUrl": "https://www.amazon.com/",
+      "startDate": "2014-11-10",
+      "endDate": "2017-01-31",
+      "highlights": [
+        "Designed innovative and interactive exhibits to showcase newly procured and digitized items.",
+        "Designed some rich product pages for USA based vendors for amazon.com",
+        "I also developed a tool called SAT (Smart Allocation Tool) for task allocation for my team. It was in pilot stage."
       ]
+    }
+  ],
+
+  "educationExperienceDtoList": [
+    {
+      "id": 201007,
+      "enabled": true,
+      "isSchool": true,
+      "title": "B.Tech in Computer Science & Engineering",
+      "organization": "Rajasthan Technical University",
+      "organizationUrl": "https://www.rtu.ac.in/",
+      "startDate": "2010-07-01",
+      "endDate": "2014-05-31"
+    },
+    {
+      "id": 200707,
+      "enabled": false,
+      "isSchool": true,
+      "title": "Senior Secondary / (10+2)",
+      "organization": "Board of Secondary Education Rajasthan",
+      "organizationUrl": "https://bser-exam.in/",
+      "startDate": "2007-07-01",
+      "endDate": "2008-04-30"
+    },
+    {
+      "id": 200507,
+      "enabled": false,
+      "isSchool": true,
+      "title": "Secondary / (10th)",
+      "organization": "Board of Secondary Education Rajasthan",
+      "organizationUrl": "https://bser-exam.in/",
+      "startDate": "2005-07-01",
+      "endDate": "2006-04-30"
     }
   ],
 
