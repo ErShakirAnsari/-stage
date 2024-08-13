@@ -1,0 +1,199 @@
+{
+  "about": [
+    "I'm Highly skilled Software Developer with extensive experience in backend development using Java, SpringBoot, Hibernate, Docker etc. Proven ability to design, develop, and maintain complex systems while delivering high-quality solutions.",
+    "Also Proficient in frontend technologies, including ReactJS and Tailwind CSS, with a strong understanding of modern web development practices. Adept at problem-solving, collaborating with cross-functional teams, and optimizing performance to meet project goals."
+  ],
+  "experience": [
+    {
+      "id": 202206,
+      "company": {
+        "name": "Wipro",
+        "image": "/images/wipro.jpg",
+        "location": "Bengaluru, Karnataka",
+        "startDate": "2022-06-02",
+        "endDate": null
+      },
+      "positions": [
+        {
+          "title": "Sr. Project Engineer",
+          "startDate": "2022-06-02",
+          "endDate": null,
+          "about": []
+        }
+      ]
+    },
+    {
+      "id": 202105,
+      "company": {
+        "name": "Sellcraft Global Solutions Pvt Ltd",
+        "image": "/images/sellcraft.png",
+        "location": "Bengaluru, Karnataka",
+        "startDate": "2021-05-20",
+        "endDate": "2022-06-01"
+      },
+      "positions": [
+        {
+          "title": "Sr. software developer",
+          "startDate": "2021-05-20",
+          "endDate": "2022-06-01",
+          "about": ["On contract with Wipro(Bengaluru)"]
+        }
+      ]
+    },
+    {
+      "id": 202011,
+      "company": {
+        "name": "Eduncle",
+        "image": "/images/eduncle.jpg",
+        "location": "Kota, Rajasthan",
+        "startDate": "2018-09-12",
+        "endDate": "2021-05-19"
+      },
+      "positions": [
+        {
+          "title": "Assistant Team Leader",
+          "startDate": "2019-11-20",
+          "endDate": "2021-05-19",
+          "about": [
+            "Worked hard to reduce issues and increase productivity.",
+            "Supervised 4 software developers.",
+            "Conducted new-hire training regularly throughout fiscal year."
+          ]
+        },
+        {
+          "title": "Sr. Software Developer",
+          "startDate": "2018-09-12",
+          "endDate": "2019-11-19",
+          "about": [
+            "Managing complete backend written <b>SpringBoot</b>, Hibernat Mysql along with elastic search.",
+            "Created custom auto scaling from AWS's EC2 for background process.",
+            "Good knowledge of web design by using html, css, bootstraps, jquery, reactJS.",
+            "Designed almost 70% of database and managing it."
+          ]
+        }
+      ]
+    },
+    {
+      "id": 201802,
+      "company": {
+        "name": "Anand Rathi IT (ARIT)",
+        "image": "/images/arit.jpg",
+        "location": "Jodhpur, Rajasthan",
+        "startDate": "2018-02-05",
+        "endDate": "2018-08-31"
+      },
+      "positions": [
+        {
+          "title": "Software Developer",
+          "startDate": "2018-02-05",
+          "endDate": "2018-08-31",
+          "about": [
+            "Headed the development of a central Account Opening web portal to handle multiple business per day.",
+            "Single handed delivered 10+ new optimization for the system.",
+            "Integrated Payment Gateway (IDFC bank), to handle payments on a daily basis.",
+            "Integrated E signing documents from NSDL for Demate account"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 201411,
+      "company": {
+        "name": "Amazon development center",
+        "image": "/images/amazon.jpg",
+        "location": "Bangaluru, Karnataka",
+        "startDate": "2014-11-10",
+        "endDate": "2017-01-31"
+      },
+      "positions": [
+        {
+          "title": "Catalog Associate",
+          "startDate": "2014-11-10",
+          "endDate": "2017-01-31",
+          "about": [
+            "Designed innovative and interactive exhibits to showcase newly procured and digitized items.",
+            "Designed some rich product pages for USA based vendors for amazon.com",
+            "I also developed a tool called SAT (Smart Allocation Tool) for task allocation for my team. It was in pilot stage."
+          ]
+        }
+      ]
+    }
+  ],
+
+  "certificationDto": {
+    "title": "Certifications",
+    "certificateDtoList": [
+      {
+        "name": "Ultimate AWS Certified Cloud Practitioner CLF-C02",
+        "link": "https://www.udemy.com/certificate/UC-e2caf018-99e8-4e23-bfcc-1884500dd503/",
+        "date": "2023-12-28",
+        "issuer": "Oracle"
+      }
+    ]
+  },
+
+  "skillSet": {
+    "backend": {
+      "title": "Backend Development",
+      "skills": [
+        { "name": "Hibernate", "rating": 6 },
+        { "name": "Java", "rating": 8 },
+        { "name": "J2EE", "rating": 8 },
+        { "name": "Maven", "rating": 8 },
+        { "name": "Servlet / JSP", "rating": 8 },
+        { "name": "Spring boot", "rating": 8 },
+        { "name": "Spring web mvc", "rating": 6 },
+        { "name": "Stored Procedures", "rating": 4 }
+      ]
+    },
+    "frontend": {
+      "title": "Frontend Development",
+      "skills": [
+        { "name": "Ajax", "rating": 8 },
+        { "name": "Android", "rating": 5 },
+        { "name": "CSS", "rating": 6 },
+        { "name": "Bootstrap", "rating": 7 },
+        { "name": "Tailwind", "rating": 7 },
+        { "name": "HTML", "rating": 7 },
+        { "name": "JavaScript", "rating": 6 },
+        { "name": "JQuery", "rating": 8 },
+        { "name": "React JS", "rating": 5 }
+      ]
+    },
+    "databases": {
+      "title": "Databases",
+      "skills": [
+        { "name": "H2 database", "rating": 8 },
+        { "name": "MS SQL server", "rating": 7 },
+        { "name": "MySQL", "rating": 8 },
+        { "name": "SQLite", "rating": 5 }
+      ]
+    },
+    "tools": {
+      "title": "Tools & Technologies",
+      "skills": [
+        { "name": "Apache Netbeans", "rating": 9 },
+        { "name": "Docker", "rating": 6 },
+        { "name": "Eclipse", "rating": 6 },
+        { "name": "Php MyAdmin", "rating": 8 },
+        { "name": "Postman", "rating": 7 }
+      ]
+    },
+    "cloud": {
+      "title": "Cloud Platforms",
+      "skills": [
+        { "name": "AWS", "rating": 5 },
+        { "name": "Firebase", "rating": 5 },
+        { "name": "Oracle Cloud", "rating": 5 }
+      ]
+    },
+    "cicd": {
+      "title": "DevOps & CI/CD",
+      "skills": [
+        { "name": "GitHub Actions", "rating": 5 },
+        { "name": "Jenkins", "rating": 5 },
+        { "name": "SonarQube", "rating": 5 }
+      ]
+    }
+  }
+}
